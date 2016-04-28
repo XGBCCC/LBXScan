@@ -7,9 +7,11 @@
 //
 
 
-@import UIKit;
-@import Foundation;
-@import AVFoundation;
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <AVFoundation/AVFoundation.h>
+
 
 #import "LBXScanResult.h"
 
